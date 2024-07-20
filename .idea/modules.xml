@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java 8/Java 8.iml" filepath="$PROJECT_DIR$/Java 8/Java 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 8 set 2/Java 8 set 2.iml" filepath="$PROJECT_DIR$/Java 8 set 2/Java 8 set 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-8-Programs.iml" filepath="$PROJECT_DIR$/.idea/Java-8-Programs.iml" />
     </modules>
   </component>
